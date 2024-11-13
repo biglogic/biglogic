@@ -34,6 +34,8 @@ I am always eager to **learn and grow**, solving complex challenges, and ensurin
 <a href="https://linkedin.com/in/devops-atul-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devops-atul-kumar-singh" height="30" width="40" /></a>
 </p>
 
+<a href="https://medium.com/@imatulsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imatulsingh01" height="30" width="40" /></a>
+</p>
 
 ---
 
